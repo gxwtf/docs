@@ -26,7 +26,7 @@ https://cn.cravatar.com/avatar/HASH
 https://gxwtf.cn/avatar?userId=MYID&size=80
 ```
 
-其中`MYID`指用户id，可以通过在已经登录自己账号的情况下[点击这里](/dashboard)查询。
+其中`MYID`指用户id，可以通过在已经登录自己账号的情况下[点击这里](https://gxwtf.cn/dashboard)查询。
 
 你的头像你做主！广坊只会存储你的邮箱，并把你重定向到对应的头像页面，绝对不会存储你的头像。
 

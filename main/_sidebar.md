@@ -5,6 +5,7 @@
 * [评分机制](main/score.md "评分机制 - 广学五题坊")
 * [头像功能指南](main/avatar.md "头像功能指南 - 广学五题坊")
 * [答题系统指南](main/quiz.md "答题系统指南 - 广学五题坊")
+* [反馈指南](main/feedback.md "反馈指南 - 广学五题坊")
 * 游戏中心
     * [化学猜一猜](main/game/chemical-guess.md "化学猜一猜 - 广学五题坊")
     * [遗传学模拟器](main/game/genetics.md "遗传学模拟器 - 广学五题坊")
