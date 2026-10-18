@@ -2,4 +2,5 @@
 * [广学五题坊](main/)
 * [广学答题](main/quiz.md)
 * [广学英语](english/)
+* [作文积累本](writing/)
 * [返回广学网址导航](https://gxwtf.cn/navigator)
